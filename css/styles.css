@@ -14,6 +14,9 @@ h1 {
 
 h2 {
   color: rgb(149, 42, 175);
+  background-color: whitesmoke;
+  width: 40%;
+  opacity: 70%;
 }
 
 h3 {
@@ -23,15 +26,25 @@ h3 {
 ul {
   color: rgb(17, 65, 207);
   font-size: 25px;
+  background-color: whitesmoke;
+  opacity: 70%;
+  height: 150px;
+  width: 25%;
 }
 
 ol {
   color: green;
+  background-color: whitesmoke;
+  font-size: 25px;
+  opacity: 70%;
+  height: 90px;
+  width: 25%;
 }
 
 table {
   margin-left: auto;
   margin-right: auto;
+  background-color: rgb(202, 201, 201);
 }
 
 img {
@@ -41,6 +54,9 @@ img {
 p {
   color: purple;
   font-weight: bold;
+  background-color: whitesmoke;
+  opacity: 70%;
+  width: 50%;
 }
 
 a {
